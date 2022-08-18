@@ -1,2 +1,5 @@
-require("joshthecoder")
-
+require("joshthecoder.options")
+require("joshthecoder.keymaps")
+require("joshthecoder.plugins")
+require("joshthecoder.autocmds")
+require("joshthecoder.telescope")
